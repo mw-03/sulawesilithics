@@ -66,6 +66,8 @@ Highlights: `r rmarkdown::metadata$highlights`
 
 Here is a citation [@Marwick2017] Here is another citation @brumm2018
 
+Even more citations [@marwick2016].
+
 # Background
 
 # Methods
